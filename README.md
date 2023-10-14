@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm whocansee, a third-year university student, researching on Java security **
+**I'm whocansee, a third-year university student, researching on Java security**
 
 **How to reach me**
 
