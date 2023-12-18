@@ -2,7 +2,7 @@
 
 **I'm whocansee, a third-year university student, researching on Java security,**
 
-**also a CTFer, member of [L-team](https://l.xdsec.org/), El3ctron1c,**
+**also a CTFer, member of [L-team](https://l.xdsec.org/),**
 
 **working for nsfocus now.**
 
