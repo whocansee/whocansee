@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-**I'm whocansee, a third-year university student, researching on Java security,**
+**I'm whocansee, a third-year university student, researching on Java security and studying Golang dev**
 
 **also a CTFer, member of [L-team](https://l.xdsec.org/),**
 
-**working for nsfocus now.**
+**looking for next job now.**
 
 **How to reach me**
 
