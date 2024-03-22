@@ -4,8 +4,6 @@
 
 **also a CTFer, member of [L-team](https://l.xdsec.org/),**
 
-**looking for next job now.**
-
 **How to reach me**
 
 - **Wechat & QQ : `whocantsee`** Thanks to those rushing to register all common words, it's **`cant`**
